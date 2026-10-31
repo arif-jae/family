@@ -1,0 +1,11 @@
+/storage/*
+!/storage/.htaccess
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
